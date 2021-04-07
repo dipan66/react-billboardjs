@@ -32,12 +32,15 @@ _This is based on [react-c3js](https://github.com/bcbcarl/react-c3js), with modi
     - [getInstances](#getinstances)
   - [Development](#development)
 
-**NOTE**: This documentation is specific to the next version of `react-billboardjs`. For documentation on version 1, see [that version's README](https://github.com/planttheidea/react-billboardjs/tree/v1).
+**NOTE**: This repo is a fork of react-billboardjs only to get to Billboard.Js v3.0+ .
+For documentation on the original repo - see [react-billboardjs](https://github.com/planttheidea/react-billboardjs).
+
+The documentation below is a copy of the the original repo since NOTHING has changed apart from the version. As and when the original repo upgrades to Billboard.js v3, I will discontinue this repo   
 
 ## Installation
 
 ```
-$ npm install react-billboardjs@next --save
+$ npm install react-billboardjs3@next --save
 ```
 
 ## Usage
