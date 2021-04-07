@@ -1,6 +1,5 @@
 {
   "github": {
-    "release": true,
-    "tagName": "v${version}"
+    "release": true
   }
 }
