@@ -10,7 +10,7 @@
     "Android >= 4"
   ],
   "bugs": {
-    "url": "https://github.com/planttheidea/react-billboardjs/issues"
+    "url": "https://github.com/dipan66/react-billboardjs/issues"
   },
   "name": "react-billboardjs",
   "dependencies": {
