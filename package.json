@@ -12,11 +12,11 @@
   "bugs": {
     "url": "https://github.com/dipan66/react-billboardjs/issues"
   },
-  "name": "react-billboardjs",
+  "name": "react-billboardjs3",
   "dependencies": {
     "billboard.js": "^3.0.0"
   },
-  "description": "React component for the billboard.js charting library",
+  "description": "React component for the billboard.js charting library V3",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/polyfill": "^7.0.0",
@@ -45,7 +45,7 @@
     "webpack-cli": "^3.3.0",
     "webpack-dev-server": "^3.3.1"
   },
-  "homepage": "https://github.com/planttheidea/react-billboardjs#readme",
+  "homepage": "https://github.com/dipan66/react-billboardjs3#readme",
   "keywords": [
     "react",
     "react-component",
@@ -64,7 +64,7 @@
     "prop-types": "^15.7.2",
     "react": "^15.3.0 || ^16.0.0 || ^17.0.0"
   },
-  "repository": "git@github.com:planttheidea/react-billboardjs.git",
+  "repository": "git@github.com:dipan66/react-billboardjs.git",
   "scripts": {
     "build": "npm run build:development && npm run build:production",
     "build:development": "rollup --config rollup.config.js --environment NODE_ENV:development",
