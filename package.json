@@ -14,7 +14,7 @@
   },
   "name": "react-billboardjs",
   "dependencies": {
-    "billboard.js": "^3.0.0"
+    "billboard.js": "^3.5.1"
   },
   "description": "React component for the billboard.js charting library",
   "devDependencies": {
